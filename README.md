@@ -9,3 +9,8 @@
 # FLASK
 pip install Flask
 
+
+
+# RUN
+
+flask --app Hello.py --debug run
